@@ -11,8 +11,9 @@ pip install pandas opencv-python
 
 
 import cv2
+import numpy as np
 import pandas as pd
-
+import argparse
 
 # In[3]:
 
